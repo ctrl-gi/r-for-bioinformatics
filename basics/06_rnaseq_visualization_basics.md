@@ -444,10 +444,4 @@ These concepts are essential for:
 
 ---
 
-# 🔁 Navigation
-
-⬅️ [Previous: Exercise 5](../rnaseq/05_differential_expression_basics)
-
-🏠 [Back to Main Menu](../index)
-
-➡️ Next: Coming soon
+⬅️ [Previous Exercise](../basics/06_rnaseq_visualization_basics) | 🏠 [Home](../index) | ➡️ Coming Soon
