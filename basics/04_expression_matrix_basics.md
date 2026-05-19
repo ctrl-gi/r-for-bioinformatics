@@ -429,10 +429,4 @@ These concepts are foundational for:
 
 ---
 
-# 🔁 Navigation
-
-⬅️ [Previous: Exercise 3](../basics/03_mini_expression_analysis)
-
-🏠 [Back to Main Menu](../index)
-
-➡️ Next: Coming soon
+⬅️ [Previous Exercise](../basics/03_mini_gex_analysis) | 🏠 [Home](../index) | ➡️ [Next Exercise](../basics/05_differential_expression_basics)
