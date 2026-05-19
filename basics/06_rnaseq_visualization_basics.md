@@ -444,4 +444,4 @@ These concepts are essential for:
 
 ---
 
-⬅️ [Previous Exercise](../basics/06_rnaseq_visualization_basics) | 🏠 [Home](../index) | ➡️ Coming Soon
+⬅️ [Previous Exercise](../basics/05_differential_expression_basics) | 🏠 [Home](../index) | ➡️ [Next Exercise](../basics/07_ggplot_pheatmap_visualization)
