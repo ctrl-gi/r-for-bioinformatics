@@ -317,10 +317,4 @@ Make a publication-ready figure:
 
 ---
 
-# 🔁 Navigation
-
-⬅️ Previous: Exercise 6
-
-🏠 Back to Main Menu
-
-➡️ Next: Coming soon
+⬅️ [Previous Exercise](../basics/06_rnaseq_visualization_basics) | 🏠 [Home](../index) | ➡️ Coming Soon
