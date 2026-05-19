@@ -220,4 +220,4 @@ Create a summary table:
 
 ---
 
-⬅️ [Previous Exercise](../basics/02_dataframes) | 🏠 [Home](../index) | ➡️ [Previous Exercise](../basics/04_expression_matrix_basics)
+⬅️ [Previous Exercise](../basics/02_dataframes) | 🏠 [Home](../index) | ➡️ [Next Exercise](../basics/04_expression_matrix_basics)
