@@ -378,10 +378,4 @@ These are the conceptual foundations behind:
 
 ---
 
-# 🔁 Navigation
-
-⬅️ [Previous: Exercise 4](../rnaseq/04_expression_matrix_basics)
-
-🏠 [Back to Main Menu](../index)
-
-➡️ Next: Coming soon
+⬅️ [Previous Exercise](../basics/04_expression_matrix_basics) | 🏠 [Home](../index) | ➡️ [Previous Exercise](../basics/06_rnaseq_visualization_basics)
